@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package>
+  <name>cp_models</name>
+  <version>0.0.0</version>
+  <description>A collection of model files used by the challenge problems</description>
+  <maintainer email="todo@todo.todo">TODO</maintainer>
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
